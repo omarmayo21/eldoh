@@ -1,0 +1,15 @@
+56979D47D3A0A09502A95561F1BFC1B03FBB
+
+
+
+"nameFrst:  " + document.getElementById("nameFrst").value
+                + "<br> nameScnd: " + document.getElementById("nameScnd").value
+                + "<br> Region: " + document.getElementById("Region").value
+                + "<br> Street: " + document.getElementById("Street").value
+                + "<br> Email: " + document.getElementById("email").value
+                + "<br> Phone: " + document.getElementById("phone").value
+                + "<br> databese: " + document.getElementById("databese").value
+                + "<br> order: " + document.getElementById("vipNorm").value
+                + "<br> datatime: " + document.getElementById("datatime").value
+                + "<br> payment: " + document.getElementById("payment").value
+}).then(
